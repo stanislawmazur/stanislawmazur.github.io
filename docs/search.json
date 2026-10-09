@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "academic-website-temp",
+    "title": "Stanisław Mazur",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a MA Political Science Student at Uni Mannheim"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Stanisław Mazur",
+    "section": "Research interests",
+    "text": "Research interests\n\nComparative Politics\nPolitical Sociology"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Stanisław Mazur",
+    "section": "Publications",
+    "text": "Publications\nSelected research publications."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Stanisław Mazur",
+    "section": "Contact",
+    "text": "Contact\nYou can contact me by email."
   }
 ]

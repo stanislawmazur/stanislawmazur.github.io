@@ -1,1 +1,51 @@
 /* css styles */
+/* Overall page */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.75;
+  color: #273244;
+  background-color: #fafaf8;
+}
+
+/* Content width */
+#quarto-content main {
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: Georgia, serif;
+  color: #17243a;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* Links */
+a {
+  color: #245d91;
+}
+
+a:hover {
+  color: #153d61;
+}
+
+/* Navigation */
+.navbar {
+  border-bottom: 1px solid #e5e7eb;
+  box-shadow: none;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}

@@ -1,7 +1,26 @@
 ---
-title: "academic-website-temp"
+title: "Stanisław Mazur"
+about:
+  template: trestles
+  image: profile.jpg
+  image-width: 220px
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/stanislawmazur
 ---
 
-This is a Quarto website.
+I am a MA Political Science Student at Uni Mannheim 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Research interests
+
+- Comparative Politics
+- Political Sociology
+
+## Publications
+
+Selected research publications.
+
+## Contact
+
+You can contact me by email.

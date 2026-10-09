@@ -3,20 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "Stanislaw Mazur"
+  title: "Stanisław Mazur"
+
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: "#ffffff"
+    foreground: "#243247"
+    pinned: true
+    search: false
+    right:
+      - text: "Home"
+        href: index.qmd
+      #- text: "Publications"
+        #href: publications.qmd
+      #- text: "CV"
+        #href: cv.pdf
+
+  page-footer:
+    center: "© 2026 Stanisław Mazur"
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
-    toc: true
-
-
-
+    toc: false
